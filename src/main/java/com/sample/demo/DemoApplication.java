@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
+	//UPDATED by TEST_CODE2 """
 	//"TEST CODE 1 COMMITTED"
   //from new branch
 	public static void main(String[] args) {
