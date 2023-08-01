@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		//updated by test1 repo
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("I am user 1");
+		System.out.println("I am user 1 entered");
 		//updated by test2
 	}
 //changes in dinesh branch
