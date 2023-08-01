@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
   //from new branch
 	public static void main(String[] args) {
+		//updated by test1 repo
 		SpringApplication.run(DemoApplication.class, args);
 	}
 //changes in dinesh branch
