@@ -8,6 +8,7 @@ public class DemoApplication {
   //from new branch
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+		//updated by test2
 	}
 //changes in dinesh branch
 }
