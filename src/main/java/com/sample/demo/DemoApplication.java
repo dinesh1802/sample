@@ -4,10 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
-	//UPDATED by TEST_CODE2 """
-	//"TEST CODE 1 COMMITTED"
-  //from new branch
+public class DemoApplication {//deleted comments
 	public static void main(String[] args) {
 		//updated by test1 repo
 		SpringApplication.run(DemoApplication.class, args);
