@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {//deleted comments
 	//RC1
 	//I am new Joiner 1
+	//I am new Joiner 2
 	public static void main(String[] args) {
 		//updated by test1 repo
 		SpringApplication.run(DemoApplication.class, args);
